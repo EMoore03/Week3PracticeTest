@@ -61,7 +61,7 @@ namespace YourNamespace
                 }
 
                 sum += count; // this is the sum, addng each numbers
-                Console.WriteLine("Current total of all numbers added is  " + sum); // displaying result to the screen
+                Console.WriteLine("Current total of all numbers added is - " + sum); // displaying result to the screen
 
             }
         }
